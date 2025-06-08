@@ -1,3 +1,6 @@
 [submodule "moose"]
 	path = moose
 	url = git@github.com:idaholab/moose.git
+[submodule "NJOY2016"]
+	path = NJOY2016
+	url = https://github.com/njoy/NJOY2016.git
